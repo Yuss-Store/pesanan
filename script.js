@@ -1,4 +1,6 @@
-const API_URL = 'https://backend-delta-steel-38.vercel.app/api/all';
+const BACKEND_DOMAIN = 'https://xyurabckend.vercel.app';
+
+const API_URL = BACKEND_DOMAIN + '/api/all';
 const API_KEY = 'YussXySecret2024';
 const POLL_INTERVAL = 15000;
 
